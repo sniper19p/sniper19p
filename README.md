@@ -5,6 +5,14 @@
 
 Here are some ideas to get you started:
 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sniper19p&show_icons=true&theme=radical)
+
+
+
+
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
