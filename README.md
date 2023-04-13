@@ -1,11 +1,12 @@
 ### Hi there 👋
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sniper19p&show_icons=true&theme=radical)
 
 <!--
 **sniper19p/sniper19p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sniper19p&show_icons=true&theme=radical)
+
 
 
 
