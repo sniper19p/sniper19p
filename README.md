@@ -1,22 +1,22 @@
-### Hey there 👋  
-I'm **sniper19p**, a self-taught developer who loves building cool stuff with Discord bots 🚀
+## 👋 Hey there!
 
-- 🔧 Currently working on: **[Mr. Daily — The Discord Bot]**
-- 📬 Reach me at: **[sniper19p19@gmail.com](mailto:sniper19p19@gmail.com)**
+I'm **sniper19p**, a self-taught coder passionate about building fun and functional **Discord bots**. I love learning by doing and bringing ideas to life through code.
+
+- 🔭 Currently working on: **[rbxldraw.com]**
+- 📫 Reach me: [sniper19p19@gmail.com](mailto:sniper19p19@gmail.com)
 - 😄 Pronouns: **He/Him**
 
 ---
 
-### 🚀 GitHub Stats  
-![sniper19p's GitHub stats](https://github-readme-stats.vercel.app/api?username=sniper19p&show_icons=true&theme=radical)
+## ⚡ GitHub Stats
 
-### 🧠 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper19p&layout=compact&theme=radical)
+![sniper19p's GitHub stats](https://github-readme-stats.vercel.app/api?username=sniper19p&show_icons=true&theme=radical&border_radius=10)
 
-### 📊 Visitors  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sniper19p.sniper19p)
+## 🔤 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniper19p&layout=compact&theme=radical&border_radius=10)
 
 ---
 
-Thanks for stopping by!  
-Take a look around, check out my projects, and feel free to reach out — I’m always happy to chat or collaborate on something cool.
+Thanks for visiting!  
+Feel free to check out my repos and connect if you want to build something awesome together.
